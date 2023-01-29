@@ -1,1 +1,1 @@
-# UMC_badjang_Android
+# - 카카오 api(access token 전달)
